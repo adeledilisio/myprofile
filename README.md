@@ -8,7 +8,7 @@
  
  ![IMG_4589](https://user-images.githubusercontent.com/62793614/77894339-dde0b580-72c0-11ea-9660-36c8ef50eb62.jpg)
  
- <p> <b> Adele Di Lisio </b> </p>
+ <p> <h2> <b> Adele Di Lisio </b> </h2> </p>
   <p> <i>Email:</i> s3707313@student.rmit.edu.au </p>
  <p> Hi there! My name is Adele Di Lisio, I am 21 years old and I am currently completing a bachelor of applied science (psychology) at RMIT university. I was born in Melbourne on the 28th of February 1999 and have a strong italian background. I am a very enthusiastic person and enjoy reading and playing video games as a pastime. </p>
  
