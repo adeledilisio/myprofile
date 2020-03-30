@@ -24,7 +24,7 @@ https://www.seek.com.au/job/41219631?type=standout#searchRequestToken=d2ddcb1f-5
 <p> This is a job advertisement found on seek.com that interests me the most. This advertises a casual position as a graphic designer that will work closely with Managing Director on design projects for clients. The job description details 'developing an understanding of the client’s design needs, contributing to app and website designs and prototypes'. What interests me about this job adverisement and area of IT is how it requires creativity, which is something I believe to obtain. Not only that, but this company is after a student who endevours to learn through work experience. This company emphasises its flexibity with student hours as well as understanding and even encourage students to continue their studies whilst working. The skills and requirements listed for this job position include a portfolio, experience with Adobe Photoshop, Adobe InDesign and Adobe Illustrator. I acquire basic knowledge and skills on Adobe Pohotoshop, however I am not very experienced with Adobe InDesign and Illustrator. In order to suit this position and increase my chances of asquiring this role, it would be ideal to start using Adobe InDesign and Adobe Illustrator and becoming familiar with how to use these softwares through online tutorials and videos. Speaking to other classmates about these softwares or even asking lecturers/tutors would also help gain more knowledge. </p>
 
 <p> <h2> Profile </h2> </p>
-<p> <i> Myers-Briggs Type Indicator (MBTI) test results: </i> </p>
+<p> <i> Myers-Briggs Type Indicator (MBTI) Test results: </i> </p>
 
 ![Screen Shot 2020-03-30 at 9 04 11 PM](https://user-images.githubusercontent.com/62793614/77900704-29e42800-72ca-11ea-8f10-874d5e9bdd5a.png)
 
@@ -34,6 +34,7 @@ https://www.seek.com.au/job/41219631?type=standout#searchRequestToken=d2ddcb1f-5
 
 ![Screen Shot 2020-03-30 at 9 16 39 PM](https://user-images.githubusercontent.com/62793614/77901864-09b56880-72cc-11ea-8bd4-579003cca687.png)
 
+<p> <i> The Big T Personality Test results: </i> </p>
 
  
 
