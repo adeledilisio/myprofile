@@ -25,9 +25,14 @@ https://www.seek.com.au/job/41219631?type=standout#searchRequestToken=d2ddcb1f-5
 
 <p> <h2> Profile </h2> </p>
 <p> <i> Myers-Briggs Type Indicator (MBTI) test results: </i> </p>
+
 ![Screen Shot 2020-03-30 at 9 04 11 PM](https://user-images.githubusercontent.com/62793614/77900704-29e42800-72ca-11ea-8f10-874d5e9bdd5a.png)
 
 <p> <i> Learning Style Test results: </i> </p>
+
+![Screen Shot 2020-03-30 at 9 16 12 PM](https://user-images.githubusercontent.com/62793614/77901738-d541ac80-72cb-11ea-8fa8-004494d65b77.png)
+
+
  
 
 </body>
