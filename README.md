@@ -36,6 +36,8 @@ https://www.seek.com.au/job/41219631?type=standout#searchRequestToken=d2ddcb1f-5
 
 <p> <i> The Big T Personality Test results: </i> </p>
 
+ ![Screen Shot 2020-03-30 at 9 21 26 PM](https://user-images.githubusercontent.com/62793614/77902155-79c3ee80-72cc-11ea-8beb-4906902e0ebc.png)
+ 
  
 
 </body>
