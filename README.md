@@ -13,6 +13,9 @@
 IT is a very new area for me, as it is not my main area of study. However, growing up in an age where technology is almost everywhere and in everything we do, I have become aware of the endless possibilities and opportunities that IT can bring us. Technology held great significance during my childhood, whether that be through games or learning. Although I don’t not have much experience or knowledge of what occurs behind the scenes in IT, I am extremely eager to learn about something that has and will continue to be such a large factor in my life and the current world we live in. I chose to study at RMIT for multiple reasons such location, convenience and its great reputation for my psychology course. When given the option to choose electives I was extremely eager to study an IT related subject, due to RMIT being reputable for its education and opportunities in IT. When beginning this subject, i did not know what to expect as i am not experienced with IT. However, I believe I will end this course with much better basic technological skill and knowledge on the ethics of IT. </p>
 
 https://www.seek.com.au/job/41219631?type=standout#searchRequestToken=d2ddcb1f-51c8-4501-adf7-3c8fbe13468d
+
+![Screen Shot 2020-03-30 at 7 55 06 PM](https://user-images.githubusercontent.com/62793614/77894177-a8d46300-72c0-11ea-81c2-3731d7e2a736.png)
+
  
 (https://user-images.githubusercontent.com/62793614/77847078-08ba0380-7206-11ea-8a6c-b04c6f66dadd.jpg)
  <p>asdfghjkljkjghfghlhglghkkklkjhlj</p>
