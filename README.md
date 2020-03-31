@@ -38,7 +38,11 @@ https://www.seek.com.au/job/41219631?type=standout#searchRequestToken=d2ddcb1f-5
 
  ![Screen Shot 2020-03-30 at 9 21 26 PM](https://user-images.githubusercontent.com/62793614/77902155-79c3ee80-72cc-11ea-8beb-4906902e0ebc.png)
  
+ The results of these tests show that I am a tactile learner, who is spontaneous, flexible and open-minded. This indicated that I am a very hand on person that likes to be creative and this would be an ideal trait for working in teams.
  
+<p> <h2> Project Idea </h2> </p> 
+
+For my project, I intent to create a basic video game through Unify. I have a great interest in video gaming as I spend a lot of my time playing different genres of games across different consoles and it would be a great experience to create one for myself.I intend to create an easy puzzle or strategy game that will become harder as levels progress. With over 1.2 million video gamers in the world, who roughly spend an average of 6 hours each day playing, the gaming industry is definetly an area in high demand. I am not extremely familiar with the process of creating a video game, therefor I expect a lot of obstacles along the way, however I am eager to learn and develop knowledge. This would include having to familiarise myself with a completely new software, in this case will be Unify. Unify is a cross-platform game engine that is used to develop video games for websites, consoles and mobile devices. I have chosen Unify as it is extremely reputable and well known for its use in vide game development. If this project is successful, I will have created a fun and basic game for myself and others to enjoy. 
 
 </body>
 </html>
